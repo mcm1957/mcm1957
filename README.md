@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   I was working more than 40 years as software developer writing code for online transactional systems. Since 2022 I spend my spare time to the community maintaining and writing adapters for the ioBroker system, most of them assigned to the ioBroker Community Adapters organization. In addition I'm supporting others through ioBrokers communication channels (telegram and forum).
 
-  My goal is to deliver best experience with adapters I maintain adn solve user requests within a reaonable time (if technically possible).
+  My goal is to deliver best experience with adapters I maintain and solve user requests within a reaonable time (if technically possible).
   
   You can contact me using english and german language.
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
   You can send an email to mcm57@gmx.at or ask at ioBrokers telegram channels.
 
-- If you want to support me, you can:
+- If you want to support me (- some computer equipment is always to replace -) or simply say "Thanks for the work", you can:
 
   [![Paypal Donation](https://img.shields.io/badge/paypal-donate%20|%20spenden-blue.svg)](https://paypal.me/martinmichalecz)<br>
   [Paypal me](https://paypal.me/martinmichalecz)
