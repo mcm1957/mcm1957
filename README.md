@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 
 - If you want to support me, you can:
 
+  [![Paypal Donation](https://img.shields.io/badge/paypal-donate%20|%20spenden-blue.svg)](https://paypal.me/martinmichalecz)<br>
   [Paypal me](https://paypal.me/martinmichalecz)
